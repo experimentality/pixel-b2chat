@@ -1,11 +1,6 @@
+<script type="text/javascript" src="https://app.b2chat.io/live/b2chat-min.js"></script>
 <script>
-  (function() {
-    var appId = "{{settings.gtmId}}";
-    if (!appId) {
-      console.error('Warning: No APP NAME ID is defined. Please configure it in the apps admin.');
-      return
-    }
-
-    // Add script here
-  })()
+  _jq(window).bind("load", function () {
+    B2Chat.init(`{{settings.pixelID}}`);
+  });
 </script>

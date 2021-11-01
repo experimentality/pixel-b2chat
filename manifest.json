@@ -1,9 +1,9 @@
 {
-  "name": "YOURAPPNAME",
-  "vendor": "vtex",
+  "name": "b2chat-pixel",
+  "vendor": "experimentality",
   "version": "0.0.1",
-  "title": "CHANGEME",
-  "description": "CHANGEME",
+  "title": "B2chat pixel",
+  "description": "B2chat pixel",
   "billingOptions": {
     "termsURL": "https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy",
     "support": {
@@ -25,12 +25,12 @@
     "vtex.pixel-interfaces": "1.x"
   },
   "settingsSchema": {
-    "title": "YOUR APP NAME",
+    "title": "B2chat pixel",
     "type": "object",
     "properties": {
-      "gtmId": {
-        "title": "SAMPLE FIELD",
-        "description": "Enter the ID (GTM-XXXX) from your Google Tag Manager",
+      "pixelID": {
+        "title": "B2chat ID",
+        "description": "B2chat pixel ID",
         "type": "string"
       }
     }
