@@ -7,6 +7,9 @@
 <!-- DOCS-IGNORE:end -->
 
 Next, you can **add media** (either an image of a GIF) if possible, so that users can better understand how the app works in practice. 
+![2021-11-01-04-14-bigjohn com co](https://user-images.githubusercontent.com/19352507/139649309-edd5cd42-f921-4247-a635-f1586796f070.png)
+![2021-11-01-04-14-bigjohn com co (1)](https://user-images.githubusercontent.com/19352507/139649317-d0fa1085-b392-4c79-8652-ecec6e77b916.png)
+
 
 ## Configuration
 
